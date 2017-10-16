@@ -164,10 +164,10 @@ Partial Class frmIncomeTaxCalculator
         'lblNetPay
         '
         Me.lblNetPay.AutoSize = True
-        Me.lblNetPay.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblNetPay.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.lblNetPay.Location = New System.Drawing.Point(467, 270)
         Me.lblNetPay.Name = "lblNetPay"
-        Me.lblNetPay.Size = New System.Drawing.Size(63, 16)
+        Me.lblNetPay.Size = New System.Drawing.Size(72, 16)
         Me.lblNetPay.TabIndex = 12
         Me.lblNetPay.Text = "$8,888.88"
         '
