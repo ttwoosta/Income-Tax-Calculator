@@ -6,6 +6,7 @@
 
 ' Turn on strict type checking,
 ' to prevent automatic conversion of values
+Option Strict On
 
 Public Class frmIncomeTaxCalculator
 
